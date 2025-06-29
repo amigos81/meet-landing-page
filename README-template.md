@@ -14,10 +14,11 @@ Construido con
 ## Implementacion
 
 Servidor alojado:
-
-- [GitHub Pages](https://github.com/amigos81/product-preview-card-component.git)
-- [Netlify](https://superb-nasturtium-73ea85.netlify.app/)
+- Frontend Mentor - [@amigos81](https://www.frontendmentor.io/profile/amigos81)
+- [GitHub Pages](https://github.com/amigos81/meet-landing-page)
+- [Netlify](https://beautiful-valkyrie-493d4d.netlify.app/)
 
 ## Autor
 
-- Edward Quisocala M.
+- Edward Quisocala M. 
+- Email: sis.duar@gmail.com
