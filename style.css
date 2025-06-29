@@ -20,11 +20,16 @@
   background-color: var(--cyan-600);
   color: var(--white);
 }
+.btn-cyan:hover {
+  background-color: #71c0d4;
+}
 .btn-purple {
   background-color: var(--purple-600);
   color: var(--white);
 }
-
+.btn-purple:hover {
+  background-color: #b18bdd;
+}
 html {
   font-family: "Red Hat Display", sans-serif;
   font-size: 16px;
@@ -165,7 +170,7 @@ h1 {
 
 .gallery-image img {
   width: 147px;
-/* width: 100%; */
+  /* width: 100%; */
   /* max-width: 256px; */
   border-radius: 10px;
 }
@@ -216,7 +221,7 @@ footer {
 .footer .card {
   width: 100%;
   margin: 0 32px;
-  padding: 64px 0;
+  padding: 64px 32px;
 }
 
 @media screen and (min-width: 768px) {
@@ -271,20 +276,20 @@ footer {
   .gallery-image img {
     width: 256px;
   }
-  .footer .card{
+  .footer .card {
     max-width: 1120px;
     display: flex;
     gap: 36px;
   }
-  .footer .card h2{
+  .footer .card h2 {
     flex: 2;
     text-align: start;
   }
-  .footer .card p{
+  .footer .card p {
     flex: 2;
     text-align: start;
   }
-  .footer .card-button{
+  .footer .card-button {
     flex: 1;
   }
 }
