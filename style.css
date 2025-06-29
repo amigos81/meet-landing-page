@@ -169,7 +169,7 @@ h1 {
   /* max-width: 256px; */
   border-radius: 10px;
 }
-h3 {
+.subtitle {
   letter-spacing: 4px;
   text-align: center;
   font-weight: 900;
@@ -226,7 +226,7 @@ footer {
   h2 {
     font-size: 36px;
   }
-  h3 {
+  .subtitle {
     font-size: 14px;
   }
   .card-button {
@@ -248,7 +248,7 @@ footer {
   h2 {
     font-size: 40px;
   }
-  h3 {
+  .subtitle {
     font-size: 16px;
   }
   .text {

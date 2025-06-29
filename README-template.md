@@ -1,6 +1,6 @@
 # Frontend Mentor - Meet landing page solution
 
-![Design preview for the Product preview card component coding challenge](./preview.jpg)
+![Design preview ](./preview.jpg)
 
 ## Proceso
 
